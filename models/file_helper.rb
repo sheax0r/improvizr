@@ -1,6 +1,6 @@
 module FileHelper
   def all
-    @all ||= File.readlines(filename).map(&:downcase).map(&:strip).reject(&empty?).uniq
+    @all ||= File.readlines(filename).map(&:downcase).map(&:strip).reject(&:empty?).uniq
   end
 
   def random
