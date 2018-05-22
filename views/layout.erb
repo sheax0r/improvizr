@@ -10,24 +10,23 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
   </head>
   <body>
-		<div class="container">
-			<nav class="navbar navbar-expand-lg navbar-light bg-light">
-				<div class="collapse navbar-collapse" id="navbarSupportedContent">
-					<ul class="navbar-nav mr-auto">
-						<li class="nav-item active">
-							<a class="nav-link" href="/">Randomize<span class="sr-only">(current)</span></a>
-						</li>
-					</ul>
-				</div>
-			</nav>
+    <div class="container">
+      <h1>
+        What will you be today?
+      </h1>
 
-			<div>
-				<%if @error then %>
-						<div class="alert alert-error"><%=@error%></div>
-				<% end %>
-				<%= yield %>
-			</div>
+      <h4>
+        Looks like you're a ...
+      </h4>
+      <div class="alert alert-info" role="alert">
+        <span>
+          <%= yield %>
+        </span>
+      </div>
 
+      <div class="btn-group" role="group" border="1px">
+        <a class="btn btn-outline-primary" role="button" href="/">Randomize</a>
+      </div>
 		</div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
