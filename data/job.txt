@@ -1,5 +1,4 @@
 Acrobat
-Animal keeper
 Architect
 Astronaut
 Auctioneer
@@ -111,3 +110,4 @@ Truck driver
 Veterinarian
 Violin-maker
 Watchmaker
+Zookeeper
