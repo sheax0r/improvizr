@@ -16,7 +16,7 @@ Butcher
 Call-centre agent
 Cameraperson
 Carpenter
-Carpenter
+CEO
 Chancellor
 Chef
 Chemist
@@ -33,6 +33,7 @@ Dentist
 Diet counsellor
 Director
 Disc jockey
+Dog walker
 Doorkeeper
 Dressmaker
 Driving instructor
@@ -66,7 +67,8 @@ Lifeguard
 Mail carrier
 Market researcher
 Marriage counsellor
-Massage Therapist
+Massage therapist
+Member of Parliament
 Meteorologist
 Minister of defense
 Model
@@ -74,7 +76,7 @@ Mountaineer
 Music teacher
 Nurse
 Obstetrician
-Optician/Optometrist
+Optometrist
 Painter
 Pathologist
 Pharmacist
