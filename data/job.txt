@@ -2,6 +2,7 @@ Acrobat
 Architect
 Astronaut
 Auctioneer
+Author
 Baker
 Barkeeper
 Beautician
@@ -60,10 +61,13 @@ Interpreter
 Jazz musician
 Journalist
 Judge
+King or Queen
+Knight
 Lawyer
 Legal expert
 Librarian
 Lifeguard
+Lumberjack
 Mail carrier
 Market researcher
 Marriage counsellor
