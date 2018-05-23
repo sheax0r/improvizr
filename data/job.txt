@@ -1,4 +1,3 @@
-Geriatric nurse
 Acrobat
 Animal keeper
 Architect
@@ -49,6 +48,7 @@ Farmer
 Firefighter
 Florist
 Gardener
+Geriatric nurse
 Goldsmith
 Headhunter
 High school teacher
@@ -106,7 +106,8 @@ Swimming pool attendant
 Taxi driver
 Tour guide
 Track welder
-Train driver
+Train conductor
+Truck driver
 Veterinarian
 Violin-maker
 Watchmaker
