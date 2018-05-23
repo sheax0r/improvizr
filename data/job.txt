@@ -14,8 +14,7 @@ Boxer
 Bricklayer
 Butcher
 Call-centre agent
-Cameraman / Camerawoman
-Ship captain
+Cameraperson
 Carpenter
 Carpenter
 Chancellor
@@ -28,7 +27,7 @@ Composer
 Computer scientist
 Concrete worker
 Conductor
-Conductor
+Cowboy or cowgirl
 Creative director
 Dentist
 Diet counsellor
@@ -50,13 +49,13 @@ Geriatric nurse
 Goldsmith
 Headhunter
 High school teacher
-Housewife/Househusband
+Homemaker
 Human resources manager
 Hunter
+IT person
 Ice-cream vendor
 Interior designer
 Interpreter
-IT person
 Jazz musician
 Journalist
 Judge
@@ -93,16 +92,17 @@ Puppeteer
 Rockstar
 Roofer
 Salesperson
-Software developer
 Santa
 Shepherd
+Ship captain
 Shipbuilder
-Soldier
 Soccer referee
+Software developer
+Soldier
 Speechwriter
 Sports instructor
 Stonemason
-Stuntman
+Stuntperson
 Swimming pool attendant
 Taxi driver
 Tour guide
