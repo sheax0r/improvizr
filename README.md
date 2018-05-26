@@ -14,7 +14,7 @@ Right now, all that it does is generate random combinations of adjectives and jo
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request to this repo.
 
-Contributions to [jobs.txt](data/jobs.txt) are especially welcome, but I'm also happy to consider PRs expanding the scope of what this app actually *does*.
+Contributions to [jobs.txt](https://github.com/sheax0r/improvizr/blob/master/data/job.txt) are especially welcome, but I'm also happy to consider PRs expanding the scope of what this app actually *does*.
 
 ## Under the hood
 
